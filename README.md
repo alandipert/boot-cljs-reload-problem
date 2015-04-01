@@ -1,1 +1,1 @@
-Temporary repo to show https://github.com/adzerk-oss/boot-cljs/issues/61#issuecomment-88435329
+Temporary repo to show https://github.com/adzerk-oss/boot-cljs/issues/61
